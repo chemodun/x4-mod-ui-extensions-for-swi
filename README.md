@@ -36,7 +36,7 @@ First two methods can be done via downloading the mod from its page on [Nexus Mo
 
 ### Collection Installation
 
-Collection installation can be done via Collection Page on [Nexus Mods](https://www.nexusmods.com/games/x4foundations/collections/4lmz4).
+Collection installation can be done via Collection Page on [Nexus Mods](https://www.nexusmods.com/games/x4foundations/collections/4lmz42).
 
 This collection contains only two mods:
 
