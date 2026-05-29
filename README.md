@@ -1,12 +1,12 @@
-# kuertee UI Extensions and HUD for SWI by Chem
+# kuertee UI Extensions and HUD for Star Wars Interworlds adoption mod by Chem
 
-This patch mod makes possible to load the UI Extensions and HUD after Star Wars Interworlds. This will give you possibility to use all latest features of UI Extensions and HUD in comparison with embedded one.
+This patch mod makes possible to load the `UI Extensions and HUD` after `Star Wars Interworlds`. This will give you possibility to use all latest features of `UI Extensions and HUD` in comparison with embedded one.
 
 ## Features
 
-- Replaces only one content.xml file of UI Extensions and HUD to ensure the loading order.
-- Does not change any content of UI Extensions and HUD, so you will get all latest features of it.
-- Makes possible to use newest (in comparison with embedded) version of UI Extensions and HUD with Star Wars Interworlds.
+- Replaces only one `content.xml` file of `UI Extensions and HUD` to ensure the loading order.
+- Does not change any content of `UI Extensions and HUD`, so you will get all latest features of it.
+- Makes possible to use newest (in comparison with embedded) version of `UI Extensions and HUD` with `Star Wars Interworlds`.
 
 ## Installation
 
@@ -16,21 +16,21 @@ First two methods can be done via downloading the mod from its page on [Nexus Mo
 
 ### Manual Installation
 
-- Install Star Wars Interworlds and kuertee UI Extensions and HUD mods first.
+- Install `Star Wars Interworlds` and `kuertee UI Extensions and HUD` mods first.
 - Download the latest version of the mod from the Nexus Mods page.
-- Extract the downloaded archive to extensions folder of your X4 installation directory with overwriting the only one file in it - `content.xml`.
-- You should repeat this process every time when you will update the UI Extensions and HUD mod!
+- Extract the downloaded archive to `extensions` folder of your X4 installation directory with overwriting the only one file in it - `content.xml`.
+- You should repeat this process every time when you will update the `UI Extensions and HUD` mod!
 
 ### Vortex Installation
 
-- Install Star Wars Interworlds and kuertee UI Extensions and HUD mods first.
+- Install `Star Wars Interworlds` and `kuertee UI Extensions and HUD` mods first.
 - Download the latest version of the mod from the Nexus Mods page using Vortex.
 - You will get a notification about file conflict.
   ![File Conflict](docs/images/file_conflict.png)
 - Click on "More" button and you will see something like this:
   ![File Conflict Details](docs/images/file_conflict_details.png)
 - Click on "Show" button and you have possibility to set a rule for the extensions.
-- Please set the rule like this, i.e. make the UI Extensions and HUD for SWI to load always after UI Extensions and HUD mod:
+- Please set the rule like this, i.e. make the `UI Extensions and HUD for SW Interworlds adoption mod` to load always after `UI Extensions and HUD` mod:
   ![Set a Rule](docs/images/file_conflict_rule.png)
 - Setting a rule is required only for the first time!
 
@@ -40,10 +40,10 @@ Collection installation can be done via Collection Page on [Nexus Mods](https://
 
 This collection contains only two mods:
 
-- kuertee UI Extensions and HUD - latest version of UI Extensions and HUD mod.
-- kuertee UI Extensions and HUD for SWI - this mod.
+- `kuertee UI Extensions and HUD` - latest version of `UI Extensions and HUD` mod.
+- `kuertee UI Extensions and HUD for SW Interworlds adoption mod` - this mod.
 
-There is one reason to make this collection - to ensure the loading order of mods. It has include the rule which make the UI Extensions and HUD for SWI to overwrite the original `content.xml` file of UI Extensions and HUD mod. So you will get all latest features of UI Extensions and HUD mod with Star Wars Interworlds mod.
+There is one reason to make this collection - to ensure the loading order of mods. It contains the rule which makes the `UI Extensions and HUD for SW Interworlds adoption mod` overwrite the original `content.xml` file of `UI Extensions and HUD` mod. So you will get all latest features of `UI Extensions and HUD` mod with `Star Wars Interworlds` mod.
 
 ### Verification
 
@@ -53,7 +53,7 @@ After successful installation you should see a next picture in the extensions me
 
 ## Compatibility
 
-This mod currently oriented on a X4: Foundations version 8.00 with latest hotfixes, as there is a latest version supported by Star Wars Interworlds mod.
+This mod currently oriented on a X4: Foundations version 8.00 with latest hotfixes, as there is a latest version supported by `Star Wars Interworlds` mod.
 
 ## Credits
 
