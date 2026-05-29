@@ -12,7 +12,7 @@ This patch mod makes possible to load the UI Extensions and HUD after Star Wars 
 
 This mod can be installed in three ways - manual installation, Vortex installation and Collection installation. Please choose the one that suits you best.
 
-First two methods can be done via More details on the mod page on [Nexus Mods](https://www.nexusmods.com/x4foundations/mods/2134).
+First two methods can be done via downloading the mod from its page on [Nexus Mods](https://www.nexusmods.com/x4foundations/mods/2134).
 
 ### Manual Installation
 
