@@ -63,7 +63,7 @@ This mod currently oriented on a X4: Foundations version 8.00 with latest hotfix
 ## Acknowledgements
 
 - [EGOSOFT](https://www.egosoft.com) - for the X series.
-- **Star Wars Interworlds Team** - for the Star Wars Interworlds mod.
+- [Star Wars Interworlds Team](https://sites.google.com/view/swinterworlds/Home) - for the Star Wars Interworlds mod.
 - [kuertee](https://next.nexusmods.com/profile/kuertee?gameId=2659) - for the `UI Extensions and HUD` and permission to make this patch mod.
 - [SirNukes](https://next.nexusmods.com/profile/sirnukes?gameId=2659) - for the `Mod Support APIs` that power the UI hooks.
 
