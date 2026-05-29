@@ -45,6 +45,12 @@ This collection contains four mods:
 
 There is one reason to make this collection - to ensure the loading order of mods. It has include the rule which make the UI Extensions and HUD for SWI to overwrite the original `content.xml` file of UI Extensions and HUD mod. So you will get all latest features of UI Extensions and HUD mod with Star Wars Interworlds mod.
 
+### Verification
+
+After successful installation you should see a next picture in the extensions menu:
+
+![Success](docs/images/success.png)
+
 ## Compatibility
 
 This mod currently oriented on a X4: Foundations version 8.00 with latest hotfixes, as there is a latest version supported by Star Wars Interworlds mod.
