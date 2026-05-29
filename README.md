@@ -19,6 +19,7 @@ First two methods can be done via More details on the mod page on [Nexus Mods](h
 - Install Star Wars Interworlds and kuertee UI Extensions and HUD mods first.
 - Download the latest version of the mod from the Nexus Mods page.
 - Extract the downloaded archive to extensions folder of your X4 installation directory with overwriting the only one file in it - `content.xml`.
+- You should repeat this process every time when you will update the UI Extensions and HUD mod!
 
 ### Vortex Installation
 
@@ -31,6 +32,7 @@ First two methods can be done via More details on the mod page on [Nexus Mods](h
 - Click on "Show" button and you have possibility to set a rule for the extensions.
 - Please set the rule like this, i.e. make the UI Extensions and HUD for SWI to load always after UI Extensions and HUD mod:
   ![Set a Rule](docs/images/file_conflict_rule.png)
+- Setting a rule is required only for the first time!
 
 ### Collection Installation
 
