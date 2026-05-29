@@ -38,11 +38,9 @@ First two methods can be done via More details on the mod page on [Nexus Mods](h
 
 Collection installation can be done via Collection Page on [Nexus Mods](https://www.nexusmods.com/games/x4foundations/collections/4lmz4).
 
-This collection contains four mods:
+This collection contains only two mods:
 
-- Star Wars Interworlds - latest version of Star Wars Interworlds mod.
 - kuertee UI Extensions and HUD - latest version of UI Extensions and HUD mod.
-- SirNukes Mod Support APIs - latest version of SirNukes Mod Support APIs mod.
 - kuertee UI Extensions and HUD for SWI - this mod.
 
 There is one reason to make this collection - to ensure the loading order of mods. It has include the rule which make the UI Extensions and HUD for SWI to overwrite the original `content.xml` file of UI Extensions and HUD mod. So you will get all latest features of UI Extensions and HUD mod with Star Wars Interworlds mod.
@@ -65,7 +63,7 @@ This mod currently oriented on a X4: Foundations version 8.00 with latest hotfix
 ## Acknowledgements
 
 - [EGOSOFT](https://www.egosoft.com) - for the X series.
-- [Star Wars Interworlds Team](https://sites.google.com/view/swinterworlds/Home) - for the Star Wars Interworlds mod.
+- [Star Wars Interworlds Team](https://sites.google.com/view/swinterworlds/Home) - for the `Star Wars Interworlds` mod.
 - [kuertee](https://next.nexusmods.com/profile/kuertee?gameId=2659) - for the `UI Extensions and HUD` and permission to make this patch mod.
 - [SirNukes](https://next.nexusmods.com/profile/sirnukes?gameId=2659) - for the `Mod Support APIs` that power the UI hooks.
 
