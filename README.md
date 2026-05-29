@@ -43,7 +43,7 @@ This collection contains only two mods:
 - `kuertee UI Extensions and HUD` - latest version of `UI Extensions and HUD` mod.
 - `kuertee UI Extensions and HUD for SW Interworlds adoption mod` - this mod.
 
-There is one reason to make this collection - to ensure the loading order of mods. It contains the rule which makes the `UI Extensions and HUD for SW Interworlds adoption mod` overwrite the original `content.xml` file of `UI Extensions and HUD` mod. So you will get all latest features of `UI Extensions and HUD` mod with `Star Wars Interworlds` mod.
+There is one reason to make this collection - to ensure the loading order of mods. It contains the rule which makes the `UI Extensions and HUD for SW Interworlds adoption mod` overwrite the original `content.xml` file of `UI Extensions and HUD` mod. So, you will get all latest features of `UI Extensions and HUD` mod with `Star Wars Interworlds` mod.
 
 ### Verification
 
@@ -65,7 +65,6 @@ This mod currently oriented on a X4: Foundations version 8.00 with latest hotfix
 - [EGOSOFT](https://www.egosoft.com) - for the X series.
 - [Star Wars Interworlds Team](https://sites.google.com/view/swinterworlds/Home) - for the `Star Wars Interworlds` mod.
 - [kuertee](https://next.nexusmods.com/profile/kuertee?gameId=2659) - for the `UI Extensions and HUD` and permission to make this patch mod.
-- [SirNukes](https://next.nexusmods.com/profile/sirnukes?gameId=2659) - for the `Mod Support APIs` that power the UI hooks.
 
 ## Changelog
 
